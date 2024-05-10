@@ -3,7 +3,7 @@ package Day4_Control_Statment;
 public class Condition_Switch_stament {
 
 	public static void main(String[] args) {
-	int weekno=3;
+	int weekno=7;
 	
 	switch(weekno)
 	{

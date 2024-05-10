@@ -40,7 +40,7 @@ public class StringsMethods1 {
 		System.out.println("'rtyu' letters contains in string is :"+s5.contains("rtyu"));     //if not containe give false
 	
 	    
-		//equals()    equalsIgnoreCase()   -- compaire the 2 strimgs return true/false
+		//equals()    equalsIgnoreCase()   -- compaire the 2 strings return true/false
 		String s6= "WELCOME";
 		String s7= "welcome";
 		

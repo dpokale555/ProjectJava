@@ -2,7 +2,7 @@ package Day10_Encapsulation;
 
 public class Keyword_StaticEx1_MainClass {
 	
-	//to access the static valriable/method in maon static method which is in other class need to add the class name before variable/method
+	//to access the static valriable/method in main static method which is in other class need to add the class name before variable/method
 
 	public static void main(String[] args) 
 	{

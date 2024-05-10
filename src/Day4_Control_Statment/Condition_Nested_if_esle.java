@@ -3,7 +3,7 @@ package Day4_Control_Statment;
 public class Condition_Nested_if_esle {
 
 	public static void main(String[] args) {
-		int weekno=8;
+		int weekno=4;
 		
 		if(weekno==1) {
 			System.out.println("Sunday");
